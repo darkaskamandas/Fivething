@@ -1,2 +1,2 @@
 # Fivething
-15 game
+15 game in js
